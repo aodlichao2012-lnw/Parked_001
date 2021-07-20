@@ -1,0 +1,16 @@
+﻿:root {
+    --main-bg-color: #fffbf5;
+    --main-bg-color2: #e6e6e6;
+    --bg-color01: #a2b4be;
+    --bg-color02: #a2b4be;
+    --bg-color03: #3f5663;
+    --txt-color-default: #000000;
+    --default-font: 'Kanit', sans-serif;
+    --font-col: #000000;
+    --font-col-neg: #FFFFFF;
+    --a-color: #808080;
+    --a-hover-color: #FEA14B;
+    --font-hilight-color: #FEA14B;
+    --list-hover-color: rgba(162, 180, 190, 0.15);
+    --font-size:80%;
+}

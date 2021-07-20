@@ -1,0 +1,324 @@
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\ApplicationInsights.config
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\csc.exe
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\System.Collections.Immutable.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\System.Reflection.Metadata.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\vbc.exe
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\VBCSCompiler.exe
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\roslyn\VBCSCompiler.exe.config
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Dash_Board_None.dll.config
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Dash_Board_None.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Dash_Board_None.pdb
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Antlr3.Runtime.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.Web.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.WindowsServer.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.ApplicationInsights.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.Web.Infrastructure.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Newtonsoft.Json.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\System.Threading.Tasks.Extensions.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\System.Web.Optimization.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\WebGrease.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Antlr3.Runtime.pdb
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.Web.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.AI.WindowsServer.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.ApplicationInsights.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Newtonsoft.Json.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\System.Threading.Tasks.Extensions.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\System.Web.Optimization.xml
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\obj\Release\Dash_Board_None.csprojResolveAssemblyReference.cache
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\obj\Release\Dash_Board_None.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\obj\Release\Dash_Board_None.pdb
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Npgsql.dll
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Npgsql.pdb
+D:\Line_Download\ปากเกร็ด\คุณ ณัฐ\แยก2\แยก2\Dash_Board_None\bin\Npgsql.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\ApplicationInsights.config
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\csc.exe
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\System.Collections.Immutable.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\System.Reflection.Metadata.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\vbc.exe
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\VBCSCompiler.exe
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\roslyn\VBCSCompiler.exe.config
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Dash_Board_None.dll.config
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Antlr3.Runtime.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.Web.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.WindowsServer.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.ApplicationInsights.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.Web.Infrastructure.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Newtonsoft.Json.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Npgsql.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\System.Threading.Tasks.Extensions.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\System.Web.Optimization.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\WebGrease.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Antlr3.Runtime.pdb
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.Web.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.AI.WindowsServer.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.ApplicationInsights.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Newtonsoft.Json.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Npgsql.pdb
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\Npgsql.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\System.Threading.Tasks.Extensions.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\bin\System.Web.Optimization.xml
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\obj\Release\Dash_Board_None.csprojResolveAssemblyReference.cache
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\obj\Release\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Final\Dash_Board_None\obj\Release\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\ApplicationInsights.config
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\csc.exe
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\System.Collections.Immutable.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\System.Reflection.Metadata.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\vbc.exe
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\VBCSCompiler.exe
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\roslyn\VBCSCompiler.exe.config
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Dash_Board_None.dll.config
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Antlr3.Runtime.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.Web.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.WindowsServer.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.ApplicationInsights.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.Web.Infrastructure.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Newtonsoft.Json.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Npgsql.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\System.Threading.Tasks.Extensions.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\System.Web.Optimization.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\WebGrease.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Antlr3.Runtime.pdb
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.Web.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.AI.WindowsServer.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.ApplicationInsights.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Newtonsoft.Json.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Npgsql.pdb
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\Npgsql.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\System.Threading.Tasks.Extensions.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\bin\System.Web.Optimization.xml
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\obj\Release\Dash_Board_None.csprojResolveAssemblyReference.cache
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\obj\Release\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Final_22\Dash_Board_None\obj\Release\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\ApplicationInsights.config
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\csc.exe
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\System.Collections.Immutable.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\System.Reflection.Metadata.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\vbc.exe
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\VBCSCompiler.exe
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\roslyn\VBCSCompiler.exe.config
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Dash_Board_None.dll.config
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Antlr3.Runtime.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.Web.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.WindowsServer.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.ApplicationInsights.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.Web.Infrastructure.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Newtonsoft.Json.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Npgsql.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\System.Threading.Tasks.Extensions.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\System.Web.Optimization.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\WebGrease.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Antlr3.Runtime.pdb
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.Web.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.AI.WindowsServer.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.ApplicationInsights.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Newtonsoft.Json.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Npgsql.pdb
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\Npgsql.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\System.Threading.Tasks.Extensions.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\bin\System.Web.Optimization.xml
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\obj\Release\Dash_Board_None.csprojResolveAssemblyReference.cache
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\obj\Release\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Final_24\Dash_Board_None\obj\Release\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\ApplicationInsights.config
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\csc.exe
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\System.Collections.Immutable.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\System.Reflection.Metadata.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\vbc.exe
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\VBCSCompiler.exe
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\roslyn\VBCSCompiler.exe.config
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Dash_Board_None.dll.config
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Antlr3.Runtime.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.Web.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.WindowsServer.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.ApplicationInsights.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.Web.Infrastructure.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Newtonsoft.Json.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Npgsql.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\System.Threading.Tasks.Extensions.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\System.Web.Optimization.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\WebGrease.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Antlr3.Runtime.pdb
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.Web.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.AI.WindowsServer.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.ApplicationInsights.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Newtonsoft.Json.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Npgsql.pdb
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\Npgsql.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\System.Threading.Tasks.Extensions.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\bin\System.Web.Optimization.xml
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\obj\Release\Dash_Board_None.csprojResolveAssemblyReference.cache
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\obj\Release\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_Ver1\Dash_Board_None\obj\Release\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\ApplicationInsights.config
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\csc.exe
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\System.Collections.Immutable.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\System.Reflection.Metadata.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\vbc.exe
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\VBCSCompiler.exe
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\roslyn\VBCSCompiler.exe.config
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Dash_Board_None.dll.config
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Dash_Board_None.pdb
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Antlr3.Runtime.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.Web.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.WindowsServer.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.ApplicationInsights.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.Web.Infrastructure.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Newtonsoft.Json.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Npgsql.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\System.Threading.Tasks.Extensions.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\System.Web.Optimization.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\WebGrease.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Antlr3.Runtime.pdb
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.DependencyCollector.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.Web.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.AI.WindowsServer.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.ApplicationInsights.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Newtonsoft.Json.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Npgsql.pdb
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\Npgsql.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\System.Threading.Tasks.Extensions.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\bin\System.Web.Optimization.xml
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\obj\Release\Dash_Board_None.csprojResolveAssemblyReference.cache
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\obj\Release\Dash_Board_None.dll
+D:\Line_Download\โอ้ต\Dash_None_ver3_font_size\Dash_Board_None\obj\Release\Dash_Board_None.pdb

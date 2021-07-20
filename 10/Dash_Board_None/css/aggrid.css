@@ -1,0 +1,17 @@
+﻿.ag-theme-balham .ag-cell-focus{
+    border: none !important;
+}
+
+
+.ag-theme-balham {
+    font-family: var(--default-font) !important;
+    font-size: 1em !important;
+    color: #333333 !important;
+
+}
+
+    .ag-theme-balham .ag-header {
+        font-family: var(--default-font) !important;
+        font-size: 1em !important;
+        color: #333333 !important;
+    }

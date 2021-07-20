@@ -1,0 +1,35 @@
+.home_icon {
+    background-image: url(../images/Icon/MainNavi/Home.png);
+}
+.home_icon.active {
+    background-image: url(../images/Icon/MainNavi/Focused-Home.png);
+}
+
+
+.rewards_icon {
+    background-image: url(../images/Icon/MainNavi/Reward.png);
+}
+.rewards_icon.active {
+    background-image: url(../images/Icon/MainNavi/Focused-Reward.png);
+}
+
+.wallet_icon {
+    background-image: url(../images/Icon/MainNavi/Wallet.png);
+}
+.wallet_icon.active {
+    background-image: url(../images/Icon/MainNavi/Focused-Wallet.png);
+}
+
+.shopping_icon {
+    background-image: url(../images/Icon/MainNavi/Shopping.png);
+}
+.shopping_icon.active {
+    background-image: url(../images/Icon/MainNavi/Focused-Shopping.png);
+}
+
+.account_icon {
+    background-image: url(../images/Icon/MainNavi/Account.png);
+}
+.account_icon.active {
+    background-image: url(../images/Icon/MainNavi/Focused-Account.png);
+}
